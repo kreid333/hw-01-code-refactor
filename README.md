@@ -21,10 +21,4 @@ Open HTML file in a browser to view how it looks visually and to see how it oper
 Kai Reid
 [@kreid333](https://github.com/kreid333)
 
-## Links
-
-GitHub Page: (https://kreid333.github.io/hw-01-code-refactor/)
-
-GitHub repo: (https://github.com/kreid333/hw-01-code-refactor)
-
 <!-- README.md template acquired from: https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc -->
